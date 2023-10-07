@@ -1,0 +1,1524 @@
+<REAPER_PROJECT 0.1 "6.82/win64" 1696416282
+  <NOTES 0 2
+  >
+  RIPPLE 0
+  GROUPOVERRIDE 0 0 0
+  AUTOXFADE 1
+  ENVATTACH 3
+  POOLEDENVATTACH 0
+  MIXERUIFLAGS 11 48
+  PEAKGAIN 1
+  FEEDBACK 0
+  PANLAW 1
+  PROJOFFS 0 0 0
+  MAXPROJLEN 0 0
+  GRID 3199 8 1 8 1 0 0 0
+  TIMEMODE 1 5 -1 30 0 0 -1
+  VIDEO_CONFIG 0 0 256
+  PANMODE 3
+  CURSOR 302.5
+  ZOOM 100 29390 0
+  VZOOMEX 6 0
+  USE_REC_CFG 0
+  RECMODE 1
+  SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
+  LOOP 0
+  LOOPGRAN 0 4
+  RECORD_PATH "" ""
+  <RECORD_CFG
+    ZXZhdxgAAQ==
+  >
+  <APPLYFX_CFG
+  >
+  RENDER_FILE ""
+  RENDER_PATTERN ""
+  RENDER_FMT 0 2 0
+  RENDER_1X 0
+  RENDER_RANGE 4 0 0 18 1000
+  RENDER_RESAMPLE 3 0 1
+  RENDER_ADDTOPROJ 0
+  RENDER_STEMS 0
+  RENDER_DITHER 0
+  RENDER_NORMALIZE 0 0.063096 1 0 0 1 1
+  TIMELOCKMODE 1
+  TEMPOENVLOCKMODE 1
+  ITEMMIX 1
+  DEFPITCHMODE 589824 0
+  TAKELANE 1
+  SAMPLERATE 44100 0 0
+  <RENDER_CFG
+    ZXZhdxgAAQ==
+  >
+  LOCK 1
+  <METRONOME 6 2
+    VOL 0.25 0.125
+    FREQ 800 1600 1
+    BEATLEN 4
+    SAMPLES "" ""
+    PATTERN 2863311530 2863311529
+    MULT 1
+  >
+  GLOBAL_AUTO -1
+  TEMPO 120 4 4
+  PLAYRATE 1 0 0.25 4
+  SELECTION 0 0
+  SELECTION2 0 0
+  MASTERAUTOMODE 0
+  MASTERTRACKHEIGHT 0 0
+  MASTERPEAKCOL 16576
+  MASTERMUTESOLO 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0
+  MASTERHWOUT 0 0 1 0 0 0 0 -1
+  MASTER_NCH 2 2
+  MASTER_VOLUME 1 0 -1 -1 1
+  MASTER_PANMODE 3
+  MASTER_FX 1
+  MASTER_SEL 0
+  <MASTERPLAYSPEEDENV
+    EGUID {125054DA-AB5E-4D66-AB56-11F899D9B590}
+    ACT 0 -1
+    VIS 0 1 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 0 -1 -1
+  >
+  <TEMPOENVEX
+    EGUID {E1ECEF9B-84D1-43A1-9511-0716B9B478B9}
+    ACT 1 -1
+    VIS 1 0 1
+    LANEHEIGHT 0 0
+    ARM 0
+    DEFSHAPE 1 -1 -1
+  >
+  <PROJBAY
+  >
+  <TRACK {B217CAB7-D286-46CC-BE67-E333E357293D}
+    NAME G#2
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {B217CAB7-D286-46CC-BE67-E333E357293D}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 0
+      SNAPOFFS 0
+      LENGTH 0.85349206349206
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 0
+      IGUID {FA95EC64-CD13-4A6D-BF64-0D7080A745D0}
+      IID 1
+      NAME G#2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3CF01B92-40F9-40FC-ADDD-647562A95D68}
+      <SOURCE WAVE
+        FILE "F:\soundfonts\new\reaperoutput\G#2.wav"
+      >
+    >
+    <ITEM
+      POSITION 5.5
+      SNAPOFFS 0
+      LENGTH 0.93011337868481
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 0
+      IGUID {DBF1A687-A641-4871-8706-D131EDDB1AE9}
+      IID 2
+      NAME G#3.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5D42DC78-B22E-4A3D-B37F-205CB38467D9}
+      <SOURCE WAVE
+        FILE "F:\soundfonts\new\reaperoutput\G#3.wav"
+      >
+    >
+    <ITEM
+      POSITION 11
+      SNAPOFFS 0
+      LENGTH 0.88451247165533
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 0
+      IGUID {405DB205-EC42-4A22-93EF-45ED43CFED64}
+      IID 3
+      NAME G#4.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {972DA2C6-B4A4-441A-9246-5CCAED954C97}
+      <SOURCE WAVE
+        FILE "F:\soundfonts\new\reaperoutput\G#4.wav"
+      >
+    >
+    <ITEM
+      POSITION 16.5
+      SNAPOFFS 0
+      LENGTH 0.65360544217687
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 0
+      IGUID {E7D96B26-2384-4520-B428-7A970EDB9ADE}
+      IID 4
+      NAME G#5.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {56C06DAD-577F-4E8A-9402-8405A6BBA056}
+      <SOURCE WAVE
+        FILE "F:\soundfonts\new\reaperoutput\G#5.wav"
+      >
+    >
+    <ITEM
+      POSITION 22
+      SNAPOFFS 0
+      LENGTH 0.80569160997732
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 0
+      IGUID {AEA81DB9-2746-4D04-A4D1-7CD1487DC442}
+      IID 5
+      NAME G1.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FE44F02D-FDC8-453A-ABE3-2F430167C39C}
+      <SOURCE WAVE
+        FILE "F:\soundfonts\new\reaperoutput\G1.wav"
+      >
+    >
+    <ITEM
+      POSITION 27.5
+      SNAPOFFS 0
+      LENGTH 1.45541950113379
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 0
+      IGUID {3436DC72-6258-4612-A072-CECD7CB5FB19}
+      IID 6
+      NAME G2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {208D1F72-9500-4786-8FE3-20E474054415}
+      <SOURCE WAVE
+        FILE "F:\soundfonts\new\reaperoutput\G2.wav"
+      >
+    >
+    <ITEM
+      POSITION 33
+      SNAPOFFS 0
+      LENGTH 1.73646258503401
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 0
+      IGUID {6192307D-FBD7-4356-9BFA-AF9F77AD1B1E}
+      IID 7
+      NAME G3.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BCB540F6-6A2E-4DFE-BF30-C374CEF2976A}
+      <SOURCE WAVE
+        FILE "F:\soundfonts\new\reaperoutput\G3.wav"
+      >
+    >
+    <ITEM
+      POSITION 38.5
+      SNAPOFFS 0
+      LENGTH 1.04514739229025
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 0
+      IGUID {4F3E45ED-B3E6-4A39-A603-81E0D2AC364C}
+      IID 8
+      NAME G4.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F7C4F51C-BF5A-40A4-A598-23E32D6DAC0C}
+      <SOURCE WAVE
+        FILE "F:\soundfonts\new\reaperoutput\G4.wav"
+      >
+    >
+    <ITEM
+      POSITION 44
+      SNAPOFFS 0
+      LENGTH 1.73662131519274
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 0
+      IGUID {7C940973-4043-425E-AF51-84C58233D8C5}
+      IID 9
+      NAME G5.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6FE94AB0-FE4D-4DB2-BCF4-4AEED057CEC5}
+      <SOURCE WAVE
+        FILE "F:\soundfonts\new\reaperoutput\G5.wav"
+      >
+    >
+    <ITEM
+      POSITION 49.5
+      SNAPOFFS 0
+      LENGTH 0.93555555555555
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 0
+      IGUID {868CFA6C-E898-42E1-8392-B1E0CF08F3E1}
+      IID 10
+      NAME A#1.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {37A626EA-E303-4E19-9F3D-A7F884CA8FAD}
+      <SOURCE WAVE
+        FILE "F:\soundfonts\new\reaperoutput\A#1.wav"
+      >
+    >
+    <ITEM
+      POSITION 55
+      SNAPOFFS 0
+      LENGTH 2.47077097505669
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 0
+      IGUID {90DC1C7F-15B0-4C65-9A26-115F6330CF3E}
+      IID 11
+      NAME A#2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FF0A614F-E76B-42FA-AC8D-6A64AE0F2668}
+      <SOURCE WAVE
+        FILE "F:\soundfonts\new\reaperoutput\A#2.wav"
+      >
+    >
+    <ITEM
+      POSITION 60.5
+      SNAPOFFS 0
+      LENGTH 1.75818594104308
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 0
+      IGUID {7593FF75-699A-418F-9217-C6793416DB3E}
+      IID 12
+      NAME A#3.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {346E4892-F3E7-40DF-8212-62E1A96D25EC}
+      <SOURCE WAVE
+        FILE "F:\soundfonts\new\reaperoutput\A#3.wav"
+      >
+    >
+    <ITEM
+      POSITION 66
+      SNAPOFFS 0
+      LENGTH 0.70673469387755
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 0
+      IGUID {C6691589-78C5-4C2D-8824-003A649FC31E}
+      IID 13
+      NAME A#4.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {77AC4354-88A4-4B80-AF96-C8A326BE2A64}
+      <SOURCE WAVE
+        FILE "F:\soundfonts\new\reaperoutput\A#4.wav"
+      >
+    >
+    <ITEM
+      POSITION 71.5
+      SNAPOFFS 0
+      LENGTH 0.71995464852608
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 0
+      IGUID {1E597269-1FD9-4E7F-8B50-E50B64857A4B}
+      IID 14
+      NAME A#5.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {02F62089-DF7A-4825-BD78-843BA88676A0}
+      <SOURCE WAVE
+        FILE "F:\soundfonts\new\reaperoutput\A#5.wav"
+      >
+    >
+    <ITEM
+      POSITION 77
+      SNAPOFFS 0
+      LENGTH 0.68655328798187
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 0
+      IGUID {1E9BFEAA-A559-4011-8818-543280A011A0}
+      IID 15
+      NAME A1.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4A89831B-AC18-4628-A406-E8AE19B79546}
+      <SOURCE WAVE
+        FILE "F:\soundfonts\new\reaperoutput\A1.wav"
+      >
+    >
+    <ITEM
+      POSITION 82.5
+      SNAPOFFS 0
+      LENGTH 1.55333333333333
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 0
+      IGUID {4D9B81E6-33CA-42E3-90C5-2EE56DB165B4}
+      IID 16
+      NAME A2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9D95F15A-5584-44FE-B661-DE347985FF26}
+      <SOURCE WAVE
+        FILE "F:\soundfonts\new\reaperoutput\A2.wav"
+      >
+    >
+    <ITEM
+      POSITION 88
+      SNAPOFFS 0
+      LENGTH 4.42882086167801
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 0
+      IGUID {99932DB2-8FAD-4D48-8642-54E0AD65B53E}
+      IID 17
+      NAME A3.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9D12DBDE-F2BA-4AB9-B3A9-E560C0D5EA2E}
+      <SOURCE WAVE
+        FILE "F:\soundfonts\new\reaperoutput\A3.wav"
+      >
+    >
+    <ITEM
+      POSITION 93.5
+      SNAPOFFS 0
+      LENGTH 0.76219954648526
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 0
+      IGUID {6481BEA5-D574-4572-91DF-66FF4D201BD7}
+      IID 18
+      NAME A4.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {725B3BFF-F286-4E9F-87D6-B4665F6F2054}
+      <SOURCE WAVE
+        FILE "F:\soundfonts\new\reaperoutput\A4.wav"
+      >
+    >
+    <ITEM
+      POSITION 99
+      SNAPOFFS 0
+      LENGTH 1.57142857142857
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 0
+      IGUID {77138587-2348-4EF7-AEB8-0244252A551F}
+      IID 19
+      NAME A5.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {64A46BD6-ED1A-4273-B995-321F2B4ED22D}
+      <SOURCE WAVE
+        FILE "F:\soundfonts\new\reaperoutput\A5.wav"
+      >
+    >
+    <ITEM
+      POSITION 104.5
+      SNAPOFFS 0
+      LENGTH 0.33462585034013
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 0
+      IGUID {B73AEF1C-3379-4D31-B5A3-C6914812F119}
+      IID 20
+      NAME B1.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8987884D-6DED-4285-82B2-04B17AFDB51B}
+      <SOURCE WAVE
+        FILE "F:\soundfonts\new\reaperoutput\B1.wav"
+      >
+    >
+    <ITEM
+      POSITION 110
+      SNAPOFFS 0
+      LENGTH 1.37253968253968
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 0
+      IGUID {07176927-0337-4065-BF70-7ADD5BF79619}
+      IID 21
+      NAME B2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9C5167A8-78F8-4296-ACF6-79FE0BFAFCAD}
+      <SOURCE WAVE
+        FILE "F:\soundfonts\new\reaperoutput\B2.wav"
+      >
+    >
+    <ITEM
+      POSITION 115.5
+      SNAPOFFS 0
+      LENGTH 2.17297052154196
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 0
+      IGUID {36B8F4FB-9FEB-4F7B-8B2C-DAA1380A99BD}
+      IID 22
+      NAME B3.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {71EED95D-1D27-462B-96B3-6E6C468D3D38}
+      <SOURCE WAVE
+        FILE "F:\soundfonts\new\reaperoutput\B3.wav"
+      >
+    >
+    <ITEM
+      POSITION 121
+      SNAPOFFS 0
+      LENGTH 1.29283446712019
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 0
+      IGUID {8457C62A-9BCB-4D93-804E-B84E83C1A905}
+      IID 23
+      NAME B4.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3B73AF73-A699-4F06-90B9-7BAAC496269D}
+      <SOURCE WAVE
+        FILE "F:\soundfonts\new\reaperoutput\B4.wav"
+      >
+    >
+    <ITEM
+      POSITION 126.5
+      SNAPOFFS 0
+      LENGTH 1.23861678004535
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 0
+      IGUID {8DF38BDE-5805-42E0-A0CE-99B66B7F4019}
+      IID 24
+      NAME B5.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {19B186C5-26B5-4A48-88E2-6E9CD27F47A6}
+      <SOURCE WAVE
+        FILE "F:\soundfonts\new\reaperoutput\B5.wav"
+      >
+    >
+    <ITEM
+      POSITION 137.5
+      SNAPOFFS 0
+      LENGTH 1.15229024943309
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 0
+      IGUID {FCCA26EB-2B93-41F6-8A7B-5EFAC6E036F6}
+      IID 26
+      NAME C#2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D4318FF4-4846-438F-BB9E-F7355488372D}
+      <SOURCE WAVE
+        FILE "F:\soundfonts\new\reaperoutput\C#2.wav"
+      >
+    >
+    <ITEM
+      POSITION 143
+      SNAPOFFS 0
+      LENGTH 5.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 0
+      IGUID {86896352-FC92-4DEE-AD0D-D1452470B233}
+      IID 27
+      NAME C#3.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FCB5C6A5-88B2-4135-AD96-41D429118F12}
+      <SOURCE WAVE
+        FILE "F:\soundfonts\new\reaperoutput\C#3.wav"
+      >
+    >
+    <ITEM
+      POSITION 148.5
+      SNAPOFFS 0
+      LENGTH 1.2827664399093
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 0
+      IGUID {BAB7C5C9-B097-49A0-9E5B-EBCD8D8ADCF0}
+      IID 28
+      NAME C#4.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E509AA02-6D98-48BD-8257-04D9B893BCFA}
+      <SOURCE WAVE
+        FILE "F:\soundfonts\new\reaperoutput\C#4.wav"
+      >
+    >
+    <ITEM
+      POSITION 154
+      SNAPOFFS 0
+      LENGTH 0.97092970521541
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 0
+      IGUID {ECC57FC8-D1F5-4D4F-8E8E-B25DDFF88800}
+      IID 29
+      NAME C#5.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2963E219-FF61-4D6F-B543-F66FC544E6C2}
+      <SOURCE WAVE
+        FILE "F:\soundfonts\new\reaperoutput\C#5.wav"
+      >
+    >
+    <ITEM
+      POSITION 159.5
+      SNAPOFFS 0
+      LENGTH 0.84639455782312
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 0
+      IGUID {E053B62E-32D5-4728-B936-A9F32A1E50DC}
+      IID 30
+      NAME C#6.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6EEACB52-7143-4260-9630-27FF414AC7AF}
+      <SOURCE WAVE
+        FILE "F:\soundfonts\new\reaperoutput\C#6.wav"
+      >
+    >
+    <ITEM
+      POSITION 165
+      SNAPOFFS 0
+      LENGTH 0.37857142857143
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 0
+      IGUID {5A715C04-D8AE-4901-9290-1522201BBCEC}
+      IID 31
+      NAME C2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E261648D-D777-49E2-982A-214EC5AFF297}
+      <SOURCE WAVE
+        FILE "F:\soundfonts\new\reaperoutput\C2.wav"
+      >
+    >
+    <ITEM
+      POSITION 170.5
+      SNAPOFFS 0
+      LENGTH 1.39707482993197
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 0
+      IGUID {AFE747A7-B269-42F9-AA98-6A051BE184CD}
+      IID 32
+      NAME C3.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BADFBA3C-22A4-4CBF-85DF-0B5CE918C181}
+      <SOURCE WAVE
+        FILE "F:\soundfonts\new\reaperoutput\C3.wav"
+      >
+    >
+    <ITEM
+      POSITION 176
+      SNAPOFFS 0
+      LENGTH 1.1556462585034
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 0
+      IGUID {74B67DB1-A68F-4EFD-A75F-C546B2182675}
+      IID 33
+      NAME C4.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E7DFB1AD-7011-459D-B271-7405C6D3AC71}
+      <SOURCE WAVE
+        FILE "F:\soundfonts\new\reaperoutput\C4.wav"
+      >
+    >
+    <ITEM
+      POSITION 181.5
+      SNAPOFFS 0
+      LENGTH 1.619410430839
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 0
+      IGUID {8AB27913-CEA0-4057-AC9D-A4080C54681A}
+      IID 34
+      NAME C5.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {AF39116B-C702-4557-A8BC-A6A7DA1F49F6}
+      <SOURCE WAVE
+        FILE "F:\soundfonts\new\reaperoutput\C5.wav"
+      >
+    >
+    <ITEM
+      POSITION 187
+      SNAPOFFS 0
+      LENGTH 5.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 0
+      IGUID {310291B7-CBD0-42D8-BA0E-F48C696BD7DD}
+      IID 35
+      NAME C6.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {13FCC912-D654-4D6D-837E-CB9AD49391F5}
+      <SOURCE WAVE
+        FILE "F:\soundfonts\new\reaperoutput\C6.wav"
+      >
+    >
+    <ITEM
+      POSITION 192.5
+      SNAPOFFS 0
+      LENGTH 1.58149659863946
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 0
+      IGUID {71B3E4F1-9608-4ED1-8888-4C2EB73A2844}
+      IID 36
+      NAME D#1.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {458030E0-4458-4784-8745-AF11E681247E}
+      <SOURCE WAVE
+        FILE "F:\soundfonts\new\reaperoutput\D#1.wav"
+      >
+    >
+    <ITEM
+      POSITION 198
+      SNAPOFFS 0
+      LENGTH 1.38151927437642
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 0
+      IGUID {00D3961A-FA27-4200-8C6C-0B32E8C7A91C}
+      IID 37
+      NAME D#2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4B19D92F-0E5E-49A7-9FDE-B25B29CAB836}
+      <SOURCE WAVE
+        FILE "F:\soundfonts\new\reaperoutput\D#2.wav"
+      >
+    >
+    <ITEM
+      POSITION 203.5
+      SNAPOFFS 0
+      LENGTH 1.8301814058957
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 0
+      IGUID {43CBBE7E-B810-4F0C-8540-4B379D656109}
+      IID 38
+      NAME D#3.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8FB29816-D307-4CF3-B559-059B8A077660}
+      <SOURCE WAVE
+        FILE "F:\soundfonts\new\reaperoutput\D#3.wav"
+      >
+    >
+    <ITEM
+      POSITION 209
+      SNAPOFFS 0
+      LENGTH 1.25739229024944
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 0
+      IGUID {5B5E5637-A7D8-46EC-A494-65ED053B00F8}
+      IID 39
+      NAME D#4.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {08D10E89-3B7C-4E54-B161-8F6107BD08CD}
+      <SOURCE WAVE
+        FILE "F:\soundfonts\new\reaperoutput\D#4.wav"
+      >
+    >
+    <ITEM
+      POSITION 214.5
+      SNAPOFFS 0
+      LENGTH 1.08222222222221
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 0
+      IGUID {6C6ABE3D-2FDB-4AE6-8E8B-D88F97D8AE7F}
+      IID 40
+      NAME D#5.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {98814D4B-DDD4-486A-971E-3E6ED32A5E71}
+      <SOURCE WAVE
+        FILE "F:\soundfonts\new\reaperoutput\D#5.wav"
+      >
+    >
+    <ITEM
+      POSITION 220
+      SNAPOFFS 0
+      LENGTH 1.53827664399094
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 0
+      IGUID {1805ECE5-C762-4708-BCD1-9BFD1A49BF5F}
+      IID 41
+      NAME D#6.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {28644A95-E11B-4C28-A5BF-5E331516D45E}
+      <SOURCE WAVE
+        FILE "F:\soundfonts\new\reaperoutput\D#6.wav"
+      >
+    >
+    <ITEM
+      POSITION 225.5
+      SNAPOFFS 0
+      LENGTH 1.3491156462585
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 0
+      IGUID {F1F45659-2315-42FA-B564-2EA3C22B0FCE}
+      IID 42
+      NAME D2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DA3DB5A3-59B6-4F48-B4CD-AE503781D605}
+      <SOURCE WAVE
+        FILE "F:\soundfonts\new\reaperoutput\D2.wav"
+      >
+    >
+    <ITEM
+      POSITION 231
+      SNAPOFFS 0
+      LENGTH 1.22802721088436
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 0
+      IGUID {A17D9B1A-C7E2-40C2-9EA1-B950F5B73C10}
+      IID 43
+      NAME D3.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DCE38F6D-3625-408C-97AC-5C2D5C88995B}
+      <SOURCE WAVE
+        FILE "F:\soundfonts\new\reaperoutput\D3.wav"
+      >
+    >
+    <ITEM
+      POSITION 236.5
+      SNAPOFFS 0
+      LENGTH 1.10564625850341
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 0
+      IGUID {4716715B-D2EA-43AD-BCAE-D8761A1AFA5F}
+      IID 44
+      NAME D4.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8BDAD814-1AB8-43B0-962F-AA17A096642D}
+      <SOURCE WAVE
+        FILE "F:\soundfonts\new\reaperoutput\D4.wav"
+      >
+    >
+    <ITEM
+      POSITION 242
+      SNAPOFFS 0
+      LENGTH 1.24848072562358
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 0
+      IGUID {F58F8C53-9D65-4745-BD6A-56B9CFA0CC26}
+      IID 45
+      NAME D5.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {17F0AAF6-733C-4ECC-901D-3E95494BF695}
+      <SOURCE WAVE
+        FILE "F:\soundfonts\new\reaperoutput\D5.wav"
+      >
+    >
+    <ITEM
+      POSITION 247.5
+      SNAPOFFS 0
+      LENGTH 1.32462585034014
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 0
+      IGUID {CE3F436A-BE85-4569-93F0-1EBEB2663164}
+      IID 46
+      NAME D6.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {440C8F2E-3765-4970-A96F-EAE1462FBCA7}
+      <SOURCE WAVE
+        FILE "F:\soundfonts\new\reaperoutput\D6.wav"
+      >
+    >
+    <ITEM
+      POSITION 253
+      SNAPOFFS 0
+      LENGTH 1.31952380952382
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 0
+      IGUID {D8A72528-C015-4A59-9168-EC795CC3194A}
+      IID 47
+      NAME E1.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8E629EB3-B599-40F0-984E-651727A043C4}
+      <SOURCE WAVE
+        FILE "F:\soundfonts\new\reaperoutput\E1.wav"
+      >
+    >
+    <ITEM
+      POSITION 258.5
+      SNAPOFFS 0
+      LENGTH 1.23811791383218
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 0
+      IGUID {7F4EE4A5-6D80-4DB4-965E-C2032330FA0A}
+      IID 48
+      NAME E2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9C0BEF4B-AA78-454C-8A1C-7840E6135E22}
+      <SOURCE WAVE
+        FILE "F:\soundfonts\new\reaperoutput\E2.wav"
+      >
+    >
+    <ITEM
+      POSITION 264
+      SNAPOFFS 0
+      LENGTH 2.18451247165535
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 0
+      IGUID {7294DFAC-870D-4E88-A047-A64DE1E08C55}
+      IID 49
+      NAME E3.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7DFB7ED3-FB07-49EE-9D11-1B011AA42D9F}
+      <SOURCE WAVE
+        FILE "F:\soundfonts\new\reaperoutput\E3.wav"
+      >
+    >
+    <ITEM
+      POSITION 269.5
+      SNAPOFFS 0
+      LENGTH 1.18727891156465
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 0
+      IGUID {E89D5CC5-AABB-4638-88AD-A7823C1B19BC}
+      IID 50
+      NAME E4.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4DD40C24-1092-4410-A644-73E641BEEA70}
+      <SOURCE WAVE
+        FILE "F:\soundfonts\new\reaperoutput\E4.wav"
+      >
+    >
+    <ITEM
+      POSITION 275
+      SNAPOFFS 0
+      LENGTH 1.17609977324264
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 0
+      IGUID {BF519974-59A6-427F-B58B-80D38AF381E9}
+      IID 51
+      NAME E5.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BC1D50F2-7F82-4DDA-A397-DFF673AC9C10}
+      <SOURCE WAVE
+        FILE "F:\soundfonts\new\reaperoutput\E5.wav"
+      >
+    >
+    <ITEM
+      POSITION 280.5
+      SNAPOFFS 0
+      LENGTH 1.05809523809523
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 0
+      IGUID {E2EDD4E9-C47E-4782-8F02-E423FFB2E7A3}
+      IID 52
+      NAME F#1.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {41046675-C6D0-4208-8E91-2167FC3022D8}
+      <SOURCE WAVE
+        FILE "F:\soundfonts\new\reaperoutput\F#1.wav"
+      >
+    >
+    <ITEM
+      POSITION 286
+      SNAPOFFS 0
+      LENGTH 0.62222222222221
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 0
+      IGUID {2785C86C-C545-4C32-8666-A0DF8FEFD0AF}
+      IID 53
+      NAME F#2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {51CC0476-3742-4657-8DE3-83D1939A7590}
+      <SOURCE WAVE
+        FILE "F:\soundfonts\new\reaperoutput\F#2.wav"
+      >
+    >
+    <ITEM
+      POSITION 291.5
+      SNAPOFFS 0
+      LENGTH 0.88673469387754
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 0
+      IGUID {AAD3F8FA-D642-405C-BA6C-45348646400A}
+      IID 54
+      NAME F#3.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6B296C10-A9DE-47B7-BF46-0B7357AE184B}
+      <SOURCE WAVE
+        FILE "F:\soundfonts\new\reaperoutput\F#3.wav"
+      >
+    >
+    <ITEM
+      POSITION 297
+      SNAPOFFS 0
+      LENGTH 1.40106575963716
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 0
+      IGUID {E7CE9962-A652-45EF-909A-923B5DF03DB0}
+      IID 55
+      NAME F#4.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4BD95F75-DAEE-4887-8FBA-C8B00BF34CCE}
+      <SOURCE WAVE
+        FILE "F:\soundfonts\new\reaperoutput\F#4.wav"
+      >
+    >
+    <ITEM
+      POSITION 302.5
+      SNAPOFFS 0
+      LENGTH 1.62920634920636
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 0
+      IGUID {5E7E8392-7269-4385-A4E9-E1F0153231DE}
+      IID 56
+      NAME F#5.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A5DE260F-7C68-47CF-BDE3-0E912E8973BC}
+      <SOURCE WAVE
+        FILE "F:\soundfonts\new\reaperoutput\F#5.wav"
+      >
+    >
+    <ITEM
+      POSITION 308
+      SNAPOFFS 0
+      LENGTH 1.04931972789115
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 0
+      IGUID {A9885E72-4346-4A91-ADF7-60AB1288164C}
+      IID 57
+      NAME F1.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0252FE05-D0B7-4E2B-B468-3BBAB9CC8561}
+      <SOURCE WAVE
+        FILE "F:\soundfonts\new\reaperoutput\F1.wav"
+      >
+    >
+    <ITEM
+      POSITION 313.5
+      SNAPOFFS 0
+      LENGTH 1.57675736961454
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 0
+      IGUID {D8428CDB-2412-46F0-B0A8-6C9C5C06DCFA}
+      IID 58
+      NAME F2.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1F3F711E-B576-4963-9E09-AC698B8E8634}
+      <SOURCE WAVE
+        FILE "F:\soundfonts\new\reaperoutput\F2.wav"
+      >
+    >
+    <ITEM
+      POSITION 319
+      SNAPOFFS 0
+      LENGTH 2.69344671201816
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 0
+      IGUID {8EBC7F89-929C-476F-AC8B-345487609631}
+      IID 59
+      NAME F3.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9021651C-B20B-42FB-B59F-062655C6FAC4}
+      <SOURCE WAVE
+        FILE "F:\soundfonts\new\reaperoutput\F3.wav"
+      >
+    >
+    <ITEM
+      POSITION 324.5
+      SNAPOFFS 0
+      LENGTH 1.38117913832201
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 0
+      IGUID {EB4AC335-71AE-4DDA-BB0B-F1EDA6D60B27}
+      IID 60
+      NAME F4.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {674866B7-4352-44B3-A03C-E5E48B89D841}
+      <SOURCE WAVE
+        FILE "F:\soundfonts\new\reaperoutput\F4.wav"
+      >
+    >
+    <ITEM
+      POSITION 330
+      SNAPOFFS 0
+      LENGTH 1.1829931972789
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 0
+      IGUID {847D591F-71D1-4F23-8A1F-43BF49C23EC2}
+      IID 61
+      NAME F5.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1F3A506B-3094-4B1E-9826-A97C9F87BB41}
+      <SOURCE WAVE
+        FILE "F:\soundfonts\new\reaperoutput\F5.wav"
+      >
+    >
+    <ITEM
+      POSITION 335.5
+      SNAPOFFS 0
+      LENGTH 0.51226757369614
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      MIXFLAG 1
+      SEL 0
+      IGUID {D3EFCE26-5260-4E21-8A3E-E8075B9811CC}
+      IID 62
+      NAME G#1.wav
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {32C9CB26-5EEE-41CC-A535-39B73B766EC5}
+      <SOURCE WAVE
+        FILE "F:\soundfonts\new\reaperoutput\G#1.wav"
+      >
+    >
+  >
+  <EXTENSIONS
+  >
+>
