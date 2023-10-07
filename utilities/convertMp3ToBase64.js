@@ -23,7 +23,7 @@ MIDI.Soundfont.marimba = {\n`;
     if (file.endsWith(".mp3")) {
       const base64String = mp3ToBase64(file);
       const fileName = path.basename(file, ".mp3");
-      jsContent += `'${fileName}': '${header}${base64String}',\n`;
+      jsContent += `"${fileName}": "${header}${base64String}",\n`;
     }
   });
 
