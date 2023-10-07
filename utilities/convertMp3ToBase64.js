@@ -6,7 +6,7 @@ const PATH = "GM-soundfonts/FluidR3_GM/drumkits/Standard/mp3";
 function convertMp3ToBase64(inputPath) {
   let jsContent = `if (typeof(MIDI) === 'undefined') var MIDI = {};
 if (typeof(MIDI.Soundfont) === 'undefined') MIDI.Soundfont = {};
-MIDI.Soundfont = {\n`;
+MIDI.Soundfont.marimba = {\n`;
   const header = "data:audio/mp3;base64,";
   // Function to convert an MP3 file to a Base64 string
   function mp3ToBase64(filePath) {
